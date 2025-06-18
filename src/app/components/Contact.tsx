@@ -40,9 +40,9 @@ const Contact = () => {
     <div id="Contact">
       <h1 className="text-4xl md:text-6xl font-bold  text-center text-white py-6 bg-blue-800  mt-10">contact us</h1>
       <section className="text-gray-600 body-font relative">
-        <div className="">
+        {/* <div className="">
       
-        </div>
+        </div> */}
         <div className="container pt-4 flex sm:grid-cols-2 mx-auto flex-wrap">
           <div className="w-[800px] h-[600px] bg-blue-900 text-center  rounded-lg shadow-lg mt-[20px]">
             <h1 className="font-bold text-4xl text-white pl-4 pt-[55px] hover:bg-blue-500"> LinkedIn </h1>

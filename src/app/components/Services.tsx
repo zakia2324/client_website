@@ -3,7 +3,6 @@
 import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious } from "@/components/ui/carousel"
 import { Card, CardContent } from "@/components/ui/card"
 import React from 'react'
-import { title } from "process";
 
 
 
@@ -62,7 +61,7 @@ export function CarouselDemo() {
     id:4,
     title: "Food Safety Training and Consultancy",
    points: [
-      <h1 className="text-2xl font-bold text-blue-800">Food Safety Training and Consultancy</h1>,
+      
       "Flexible Training Delivery Methods",
       "Interactive Online Workshops",
       "On-Site Consulting and Training Sessions",

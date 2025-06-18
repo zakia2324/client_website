@@ -1,4 +1,4 @@
-import { Link } from 'lucide-react'
+
 import React from 'react'
 import Image from 'next/image'
 
@@ -14,11 +14,7 @@ const About = () => {
       alt="hero"
       width={500}
       height={500}
-    
-      
-    
-    
-       sizes="(max-width: 640px) 90vw, (max-width: 1024px) 60vw, 33vw"
+     sizes="(max-width: 640px) 90vw, (max-width: 1024px) 60vw, 33vw"
       style={{ width: '100%', height: 'auto', maxWidth: 400 }}
       priority
       />
@@ -223,8 +219,8 @@ const About = () => {
         className="lg:w-3/5 md:w-1/2 object-cover object-center rounded-lg md:mt-0 mt-12 transition duration-500 ease-in-out transform hover:scale-110 hover:rotate-3"
         src="https://www.ringcentral.com/gb/en/blog/wp-content/uploads/2021/05/happy-manager-leads-a-meeting-in-the-office-scaled.jpg"
         alt="step"
-        height={600}
-        width={600}
+        height={500}
+        width={500}
       />
     </div>
   </div>
