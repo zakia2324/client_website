@@ -53,7 +53,7 @@ const About = () => {
         
         
         
-        <button className="ml-4 inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-blue-950 rounded text-lg transition duration-300 ease-in-out">
+        <button className="ml-4 inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-blue-900 rounded text-lg transition duration-300 ease-in-out">
           <a href="#Contact">Contact Us</a>
         </button>
       </div>
